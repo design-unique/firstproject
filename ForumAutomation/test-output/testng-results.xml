@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-12T21:37:04 BDT" name="Suite" finished-at="2022-11-12T21:37:38 BDT" duration-ms="33698">
+    <groups>
+    </groups>
+    <test started-at="2022-11-12T21:37:04 BDT" name="Test" finished-at="2022-11-12T21:37:38 BDT" duration-ms="33698">
+      <class name="testcases.T01_HomepageValidation">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testcases.T01_HomepageValidation@3e96bacf]" started-at="2022-11-12T21:37:16 BDT" name="openBrowser" finished-at="2022-11-12T21:37:17 BDT" duration-ms="889" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="HomepageValidation()[pri:0, instance:testcases.T01_HomepageValidation@3e96bacf]" started-at="2022-11-12T21:37:17 BDT" name="HomepageValidation" finished-at="2022-11-12T21:37:24 BDT" duration-ms="6251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomepageValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.T01_HomepageValidation@3e96bacf]" started-at="2022-11-12T21:37:24 BDT" name="tearDown" finished-at="2022-11-12T21:37:24 BDT" duration-ms="286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.T01_HomepageValidation -->
+      <class name="testcases.T02_LoginpageValidation">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testcases.T02_LoginpageValidation@484970b0]" started-at="2022-11-12T21:37:24 BDT" name="openBrowser" finished-at="2022-11-12T21:37:25 BDT" duration-ms="1232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="LoginpageValidation()[pri:0, instance:testcases.T02_LoginpageValidation@484970b0]" started-at="2022-11-12T21:37:25 BDT" name="LoginpageValidation" finished-at="2022-11-12T21:37:38 BDT" duration-ms="12543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginpageValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.T02_LoginpageValidation@484970b0]" started-at="2022-11-12T21:37:38 BDT" name="tearDown" finished-at="2022-11-12T21:37:38 BDT" duration-ms="343" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.T02_LoginpageValidation -->
+      <class name="testcases.T03_RegistrationpageValidation">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:testcases.T03_RegistrationpageValidation@3571b748]" started-at="2022-11-12T21:37:04 BDT" name="openBrowser" finished-at="2022-11-12T21:37:06 BDT" duration-ms="1551" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="RegistrationpageValidation()[pri:0, instance:testcases.T03_RegistrationpageValidation@3571b748]" started-at="2022-11-12T21:37:06 BDT" name="RegistrationpageValidation" finished-at="2022-11-12T21:37:16 BDT" duration-ms="10195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistrationpageValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.T03_RegistrationpageValidation@3571b748]" started-at="2022-11-12T21:37:16 BDT" name="tearDown" finished-at="2022-11-12T21:37:16 BDT" duration-ms="352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.T03_RegistrationpageValidation -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
